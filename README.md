@@ -46,8 +46,8 @@ This repository provides **screenshots only** for demonstration purposes.
 
 ## 👨‍💻 Developers
 
-**Eray Yılmaz**  
-**Muzurcan Doru**
+**Eray Yılmaz**  [LinkedIn](https://www.linkedin.com/in/erayyilmaz78/) [GitHub](https://github.com/erayyilmaz78)
+**Muzurcan Doru** -[LinkedIn](https://www.linkedin.com/in/muzurcandoru/) [GitHub](https://github.com/munzurdoru)
 
 ---
 
